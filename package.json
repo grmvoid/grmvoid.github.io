@@ -1,5 +1,5 @@
 {
-  "name": "sxbrsky.github.io",
+  "name": "grmvoid.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sxbrsky/sxbrsky.github.io.git"
+    "url": "git+https://github.com/grmvoid/sxbrsky.github.io.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sxbrsky/sxbrsky.github.io/issues"
+    "url": "https://github.com/grmvoid/grmvoid.github.io/issues"
   },
-  "homepage": "https://github.com/sxbrsky/sxbrsky.github.io#readme",
+  "homepage": "https://github.com/grmvoid/grmvoid.github.io#readme",
   "dependencies": {
     "sass": "^1.70.0",
     "serve": "^14.2.1"
